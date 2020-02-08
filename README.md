@@ -2,9 +2,9 @@
 author: Edson Ayllon
 category: personal project
 tags: 
-- ethereum
+- node
+- express
 - react
-- solidity
 - javascript
 status: paused
 ---
